@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Raleway";
+    src: url("../font/Raleway-Medium.ttf");
+}
+
+@font-face {
+    font-family: "Marck Script";
+    src: url("../font/MarckScript-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Ubuntu";
+    src: url("../font/Ubuntu-Medium.ttf");
+}
+
+@font-face {
+    font-family: "Light";
+    src: url("../font/Light.ttf");
+}
